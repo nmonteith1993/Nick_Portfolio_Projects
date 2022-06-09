@@ -5,6 +5,8 @@
 
 ![](/Images/Dashboard.png)
 
+[Link to the Tableau Dashboard](https://public.tableau.com/app/profile/nicholas.monteith/viz/COVID-19Statistics_16545453933370/Dashboard1)
+
 # [Project 2: NBA 3-pt% insight - Project Overview](https://github.com/nmonteith1993/Nick_Portfolio_Projects/blob/main/3-pt%25%20Win%20Games.ipynb)
 - How Important is the 3-pointer?
 - Does a higher 3-pt% lead to more wins?
