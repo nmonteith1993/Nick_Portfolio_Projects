@@ -3,7 +3,7 @@
 - Used joins, temp tables, aggregate functions, data types conversion, and created views to explore the global data on confirmed Covid-19 deaths.
 - Built a dashboard in Tableau by reporting my findings regarding the Covid-19 exploratory analysis.
 
-![](/Images/Dashboard.png)
+[![](/Images/Dashboard.png)](https://public.tableau.com/app/profile/nicholas.monteith/viz/COVID-19Statistics_16545453933370/Dashboard1)
 
 [Link to the Tableau Dashboard](https://public.tableau.com/app/profile/nicholas.monteith/viz/COVID-19Statistics_16545453933370/Dashboard1)
 
