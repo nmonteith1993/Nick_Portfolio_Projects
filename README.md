@@ -29,7 +29,7 @@
 # [Project 4: Movie Budget vs Revenue Correlation - Project Overview](https://github.com/nmonteith1993/Nick_Portfolio_Projects/blob/main/Movie%20Correlation%20Project.ipynb)
 - Imported movies.csv to analyze budget and revenue data
 - Checked for any missing or duplicate date and cleaned data appropriately
-- Created scatter plot and correlation matrix to verify correlaton between the budget and the revenue for movies
+- Created scatter plot and correlation matrix to verify correlation between the budget and the revenue for movies
 - High correlation between films budget and the gross revenue
 - Also, there is a correlation between the gross revenue and votes
 
