@@ -1,4 +1,4 @@
-# Project 2: NBA 3-pt% insight - Project Overview
+# Project: NBA 3-pt% insight - Project Overview
 
 - How Important is the 3-pointer?
 - Does a higher 3-pt% lead to more wins?
