@@ -13,3 +13,11 @@
 - Used joins and created new table with combined team records data and team shooting data
 - Imported .csv below to analyze NBA team data
 - Found that there is a correlation between higher 3-pt% and wins in the NBA
+
+# [Project 3: Nashville Housing Data Cleaning in SQL](https://github.com/nmonteith1993/Nick_Portfolio_Projects/blob/main/Nashville_Housing_Data_Cleaning.sql)
+- Standardized the Date Format
+- Populated Property Address Data that was missing
+- Breaking out address into individual columns (Address, City, State)
+- Change Y and N to Yes and No in "Sold as Vacant" field to add standardization
+- Remove Duplicates so that the data is accuarte and doesnt populate more than once
+- Delete any Unused Columns
