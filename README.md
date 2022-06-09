@@ -5,7 +5,7 @@
 - Used joins, temp tables, aggregate functions, data types conversion, and created views to explore the global data on confirmed Covid-19 deaths.
 - Built a dashboard in Tableau by reporting my findings regarding the Covid-19 exploratory analysis.
 
-![](https://github.com/nmonteith1993/Nick_Portfolio_Projects/blob/main/Images/Dashboard%201.png)
+![](/Images/Dashboard%201.png)
 
 [Link to the Tableau Dashboard](https://public.tableau.com/app/profile/nicholas.monteith/viz/COVID-19Statistics_16545453933370/Dashboard1)
 
@@ -18,7 +18,7 @@
 - Imported .csv below to analyze NBA team data
 - Found that there is a correlation between higher 3-pt% and wins in the NBA
 
-![](https://github.com/nmonteith1993/Nick_Portfolio_Projects/blob/main/Images/Shot_Correlation.png)
+![](/Images/Shot_Correlation.png)
 
 # [Project 3: Nashville Housing Data Cleaning in SQL - Project Overview](https://github.com/nmonteith1993/Nick_Portfolio_Projects/blob/main/Nashville_Housing_Data_Cleaning.sql)
 - Standardized the Date Format
@@ -35,4 +35,4 @@
 - High correlation between films budget and the gross revenue
 - Also, there is a correlation between the gross revenue and votes
 
-![](https://github.com/nmonteith1993/Nick_Portfolio_Projects/blob/main/Images/CorrelationMatrix.png)
+![](/Images/CorrelationMatrix.png)
